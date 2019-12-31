@@ -17,3 +17,5 @@ def map_to_no_change(source_array)
   end
   same_array
 end
+
+def map
