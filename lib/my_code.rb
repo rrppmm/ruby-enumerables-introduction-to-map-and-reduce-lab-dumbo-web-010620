@@ -15,3 +15,5 @@ def map_to_no_change(source_array)
     same_array(source_array[i])
     i += 1
   end
+  same_array
+end
